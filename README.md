@@ -6,7 +6,7 @@
 
 <div align="left">
 
-👨🏻‍🎓 I'm a gradudate from [University of California, Berkeley](https://www.berkeley.edu/)with a major in Data Science, and I'm currently seeking software engineering opportunities. 
+👨🏻‍🎓 I'm a gradudate from [University of California, Berkeley](https://www.berkeley.edu/) with a major in Data Science, and I'm currently seeking software engineering opportunities. 
 
 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/hao-en-berkeley/)!
 
